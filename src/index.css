@@ -7,4 +7,5 @@
 #root {
   min-width: 100vh;
   display: flex;
+  background: linear-gradient(135deg, #fff);
 }
